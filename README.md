@@ -43,8 +43,8 @@ Welcome to my GitHub profile. I'm a software developer and data enthusiast with 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=epatrik107&show_icons=true&theme=transparent&hide_border=true&title_color=00599C&icon_color=00599C&text_color=333333" alt="Patrik's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=epatrik107&layout=compact&theme=transparent&hide_border=true&title_color=00599C&text_color=333333" alt="Top Languages" />
+  <img src="https://epatrik107.vercel.app/api?username=epatrik107&show_icons=true&theme=transparent&hide_border=true&title_color=00599C&icon_color=00599C&text_color=333333&count_private=true" alt="Patrik's GitHub Stats" />
+  <img src="https://epatrik107.vercel.app/api/top-langs/?username=epatrik107&layout=compact&theme=transparent&hide_border=true&title_color=00599C&text_color=333333" alt="Top Languages" />
 </p>
 
 ---
